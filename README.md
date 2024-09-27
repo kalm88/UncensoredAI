@@ -16,6 +16,7 @@ This model is intended for research purposes only and may produce inaccurate or 
 
 This is an uncensored version of the original [Llama-3.2-3B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct), created using [mlabonne](https://huggingface.co/mlabonne)'s [script](https://colab.research.google.com/drive/1VYm3hOcvCpbGiqKZb141gJwjdmmCcVpR?usp=sharing), which builds on [FailSpy's notebook](https://huggingface.co/failspy/llama-3-70B-Instruct-abliterated/blob/main/ortho_cookbook.ipynb) and the original work from [Andy Arditi et al.](https://colab.research.google.com/drive/1a-aQvKC9avdZpdyBn4jgRQFObTPy1JZw?usp=sharing). The method is discussed in details in this [blog](https://huggingface.co/blog/mlabonne/abliteration) and this [paper](https://arxiv.org/abs/2406.11717). 
 
+You can play with it at this 🤗 [space](https://huggingface.co/spaces/chuanli11/Chat-Llama-3.2-3B-Instruct-uncensored).
 
 The model rarely refuses to respond during testing. However, it sometimes provides general information on sensitive topics instead of instructing harmful behaviors, which we found noteworthy.
 
