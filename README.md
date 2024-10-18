@@ -12,6 +12,11 @@ tags: []
 This model is intended for research purposes only and may produce inaccurate or unreliable outputs. Use it cautiously and at your own risk.
 
 
+<p align="center">
+🦄 Other exciting ML projects at Lambda: <a href="https://news.lambdalabs.com/news/today">ML Times</a>, <a href="https://github.com/LambdaLabsML/distributed-training-guide/tree/main">Distributed Training Guide</a>, <a href="https://lambdalabsml.github.io/Open-Sora/introduction/">Text2Video</a>, <a href="https://lambdalabs.com/gpu-benchmarks">GPU Benchmark</a>.
+</p>
+
+
 ### Model Description
 
 This is an uncensored version of the original [Llama-3.2-3B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct), created using [mlabonne](https://huggingface.co/mlabonne)'s [script](https://colab.research.google.com/drive/1VYm3hOcvCpbGiqKZb141gJwjdmmCcVpR?usp=sharing), which builds on [FailSpy's notebook](https://huggingface.co/failspy/llama-3-70B-Instruct-abliterated/blob/main/ortho_cookbook.ipynb) and the original work from [Andy Arditi et al.](https://colab.research.google.com/drive/1a-aQvKC9avdZpdyBn4jgRQFObTPy1JZw?usp=sharing). The method is discussed in details in this [blog](https://huggingface.co/blog/mlabonne/abliteration) and this [paper](https://arxiv.org/abs/2406.11717). 
